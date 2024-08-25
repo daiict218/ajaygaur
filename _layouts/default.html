@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <style>
+    body {
+      background-color: #ffffff;
+      color: #333;
+      font-family: Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      font-size: 20px;
+    }
+    header {
+      background-color: #f4f4f4;
+      padding: 20px;
+      font-size: 24px;
+    }
+    nav {
+      display: flex;
+      justify-content: space-between;
+    }
+    header a {
+      color: #333;
+      font-weight: bold;
+      text-decoration: none;
+      padding-left: 240px;
+      padding-right: 240px;
+    }
+    main {
+      flex: 1;
+      padding: 40px;
+      max-width: 800px;
+      margin: 0 auto;
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f4f4f4;
+      margin-top: 40px;
+    }
+    footer p {
+      margin: 0;
+      color: #333;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="{{ site.baseurl }}/">Ajay Gaur</a>
+      <a href="{{ site.baseurl }}/blog.html">Blog</a>
+    </nav>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>Powered by Jekyll and Minima. © 2024 Ajay Gaur.</p>
+  </footer>
+</body>
+</html>
