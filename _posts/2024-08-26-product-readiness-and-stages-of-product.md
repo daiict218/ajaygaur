@@ -60,5 +60,3 @@ The exercise of calculating the Product Readiness Score can be done easily. You 
      - Analyze support tickets and customer requirements to close any remaining gaps and achieve ~100% of the Product Readiness Score.
      - Increase the TAM of the product by introducing innovative features.
      - Consider moving the product back to the Early Stage Product category if disruptive innovations are introduced, to incorporate increased TAM and new features.
-
-> **Note**: The weights of the features and the stage based on the Product Readiness Score (%) might differ, and you may need to adjust these numbers depending on the specific stage.
