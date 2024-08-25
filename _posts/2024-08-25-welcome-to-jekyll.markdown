@@ -1,29 +1,15 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "What is Dharma"
 date:   2024-08-25 12:02:50 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+There are various dharmas or religions in the world. The West is predominantly dominated by Christianity, the Middle East by Islam, and Asia by Hinduism, Buddhism, Jainism, Sikhism, etc. There are Jews in Israel. Ancient texts tell us that Islam, Judaism, and Christianity evolved from the same source. Sikhism and Buddhism originated from Hinduism. There might be other religions followed in various regions, and tribal people might have their own religions.
 
-Jekyll requires blog post files to be named according to the following format:
+Recently, I have been thinking a lot about what religion or dharma is. In every religion, there is a way of living life, so Dharma is nothing but guidance on how you should perform your deeds (Karma) in your life. Dharma is a belief system that people follow to guide their actions. Religion is something that binds people from various ethnicities together, and this is part of human nature and how we've evolved. A common trait gives us comfort in staying within societies. This has been extensively written about in the book "Sapiens: A Brief History of Humankind" by Yuval Noah Harari. When that trait is demeaned by someone else, people get furious because it attacks something they believe in.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+If you're on the internet, you'll find multiple debates among people trying to prove how their religion or Dharma is better than someone else's. But when you have so many religions to follow, it becomes difficult to choose the right one. Furthermore, it can take one away from individualism or the personal beliefs one possesses. Since Dharma is the belief people follow to guide their deeds, the belief of one person can be different from someone else's, even if they belong to the same "religion." Essentially, each person's dharma can be different and might conflict with someone else's dharma.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+If you're someone who might not want to follow any specific religion but possesses internal beliefs that guide your deeds, then you're following your own dharma. For example, people in North India are usually taught that eating meat or killing animals is against Hindu Dharma, whereas Nepal, the only Hindu country, celebrates a festival of killing buffaloes (Gadhimai Festival). Similarly, during Navratri, there are animal offerings to Goddess Kali in West Bengal by the same Hindu people. So, essentially, there are variations within the Hindu religion or Dharma as well.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Instead of following one religion that is adhered to by many people, someone can have their own Dharma (beliefs), which might vary from mainstream religions. This is essentially how Buddhism, Sikhism, and Jainism originated from Hinduism, and how Judaism and Islam originated. Since your beliefs can differ from someone else's, one should follow their own dharma (beliefs or guidance) and not impose it on others.
